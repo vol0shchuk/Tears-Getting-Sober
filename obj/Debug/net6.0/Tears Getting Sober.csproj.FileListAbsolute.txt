@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\bin\Debug\net6.0\Tears Getting Sober.exe
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\bin\Debug\net6.0\Tears Getting Sober.deps.json
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\bin\Debug\net6.0\Tears Getting Sober.runtimeconfig.json
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\bin\Debug\net6.0\Tears Getting Sober.dll
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\bin\Debug\net6.0\Tears Getting Sober.pdb
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.AssemblyInfo.cs
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.dll
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\refint\Tears Getting Sober.dll
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.pdb
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\Tears Getting Sober.genruntimeconfig.cache
+C:\Users\HP\source\repos\Tears Getting Sober\Tears Getting Sober\obj\Debug\net6.0\ref\Tears Getting Sober.dll
